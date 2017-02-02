@@ -1,0 +1,3 @@
+Zanderwar\SteamAuth\SteamAuth:
+  steam_api_key: 24640A1DB28D850A939C5341251BCBEF
+  validate_url: "http://dev.scraplands.net/steamauth/validate"
