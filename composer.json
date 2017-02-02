@@ -18,6 +18,6 @@
     }
   },
   "require": {
-    "silverstripe/framework": "^4.0@dev-master"
+    "silverstripe/framework": "^4.0@dev"
   }
 }
